@@ -1,7 +1,7 @@
 {
-    "versionCode":  34,
-    "versionName":  "1.12.4",
-    "notas":  "El aviso de actualizacion se revisa en cada apertura (se quito la cache de 6 horas).",
+    "versionCode":  35,
+    "versionName":  "1.12.5",
+    "notas":  "Mejoras en los ajustes del menu y nueva seccion Actualizaciones con el historial de cambios, estado de la descarga e instalacion directa desde ahi.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-19"
 }
