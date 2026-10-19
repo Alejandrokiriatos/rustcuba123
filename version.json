@@ -1,7 +1,7 @@
 {
-    "versionCode":  33,
-    "versionName":  "1.12.3",
-    "notas":  "La actualizacion ahora se descarga dentro de la app y se abre el instalador automaticamente, sin salir al navegador.",
+    "versionCode":  34,
+    "versionName":  "1.12.4",
+    "notas":  "El aviso de actualizacion se revisa en cada apertura (se quito la cache de 6 horas).",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-19"
 }
