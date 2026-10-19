@@ -1,7 +1,7 @@
-﻿{
+{
     "versionCode":  32,
     "versionName":  "1.12.2",
-    "notas":  "Corrige el chequeo de actualizaciones: ahora el aviso aparece correctamente.",
+    "notas":  "Corrige el chequeo de actualizaciones: el aviso ya aparece y el archivo se lee correctamente.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-19"
 }
