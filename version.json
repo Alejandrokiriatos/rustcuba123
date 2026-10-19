@@ -1,7 +1,7 @@
 ﻿{
-    "versionCode":  30,
-    "versionName":  "1.12.0",
-    "notas":  "Generos en pantalla propia con paginacion completa. Aviso de actualizacion integrado.",
+    "versionCode":  31,
+    "versionName":  "1.12.1",
+    "notas":  "Mejoras de estabilidad y correccion de errores menores.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-19"
 }
