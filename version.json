@@ -1,7 +1,7 @@
 {
-    "versionCode":  35,
-    "versionName":  "1.12.5",
-    "notas":  "Mejoras en los ajustes del menu y nueva seccion Actualizaciones con el historial de cambios, estado de la descarga e instalacion directa desde ahi.",
+    "versionCode":  36,
+    "versionName":  "1.12.6",
+    "notas":  "Nuevo sistema de iconos mas nitido y consistente (flechas, lupa, estrellas, reproducir). En la pantalla de Actualizaciones solo queda la flechita de volver. Menu lateral con iconos nuevos y el tema muestra cual tienes activo.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-19"
 }
