@@ -1,7 +1,7 @@
 {
-    "versionCode":  42,
-    "versionName":  "1.14.2",
-    "notas":  "Arreglado Ver en linea: ahora reproduce en audio latino desde latanime, con varios servidores y enlace directo. Tambien reproduce HLS.",
+    "versionCode":  43,
+    "versionName":  "1.14.3",
+    "notas":  "Se quito la opcion de ver en linea. Ahora para ver un anime solo hay que descargarlo desde su ficha.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-20"
 }
