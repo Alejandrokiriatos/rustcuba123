@@ -1,7 +1,7 @@
 {
-    "versionCode":  39,
-    "versionName":  "1.13.2",
-    "notas":  "La descarga de la actualizacion ahora sigue en segundo plano: puedes salir de la app (incluso a WhatsApp) y la descarga continua con una notificacion de progreso. Si algo falla, avisa dentro de la app; nunca abre el navegador.",
+    "versionCode":  40,
+    "versionName":  "1.14.0",
+    "notas":  "Optimizacion completa: abrir series y descargas ahora es mucho mas rapido (sinopsis y temporadas se cargan en segundo plano, cache de datos). Arreglado: la reproduccion en linea ya funciona con enlaces HLS y prueba los servidores en paralelo. Arreglado: las sugerencias desaparecen al buscar.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-20"
 }
