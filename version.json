@@ -1,7 +1,7 @@
 {
-    "versionCode":  36,
-    "versionName":  "1.12.6",
-    "notas":  "Nuevo sistema de iconos mas nitido y consistente (flechas, lupa, estrellas, reproducir). En la pantalla de Actualizaciones solo queda la flechita de volver. Menu lateral con iconos nuevos y el tema muestra cual tienes activo.",
+    "versionCode":  37,
+    "versionName":  "1.13.0",
+    "notas":  "Reproductor en linea integrado (LibVLC): reproduce en la app los capitulos en HLS de los servidores que antes no cargaban. En la ficha usa Ver en linea (HLS). Las descargas siguen igual.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
-    "fecha":  "2026-10-19"
+    "fecha":  "2026-10-20"
 }
