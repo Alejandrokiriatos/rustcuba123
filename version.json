@@ -1,7 +1,7 @@
 {
-    "versionCode":  38,
-    "versionName":  "1.13.1",
-    "notas":  "Corregido: si falla la descarga de una actualizacion, ya no se abre el navegador; ahora avisa dentro de la app. Descarga de la actualizacion mas robusta.",
+    "versionCode":  39,
+    "versionName":  "1.13.2",
+    "notas":  "La descarga de la actualizacion ahora sigue en segundo plano: puedes salir de la app (incluso a WhatsApp) y la descarga continua con una notificacion de progreso. Si algo falla, avisa dentro de la app; nunca abre el navegador.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-20"
 }
