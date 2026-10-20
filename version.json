@@ -1,7 +1,7 @@
 {
-    "versionCode":  41,
-    "versionName":  "1.14.1",
-    "notas":  "Reproductor en linea: arreglada la pantalla negra (el video ahora se enlaza con la superficie lista y usa decodificacion por software para HLS). Los servidores se prueban en paralelo, la busqueda de enlace es mas rapida.",
+    "versionCode":  42,
+    "versionName":  "1.14.2",
+    "notas":  "Arreglado Ver en linea: ahora reproduce en audio latino desde latanime, con varios servidores y enlace directo. Tambien reproduce HLS.",
     "url":  "https://raw.githubusercontent.com/Alejandrokiriatos/rustcuba123/main/ANK_ANIME.apk",
     "fecha":  "2026-10-20"
 }
